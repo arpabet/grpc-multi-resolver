@@ -1,4 +1,4 @@
-module github.com/arpabet/grpc-multi-resolver
+module go.arpabet.com/grpc-multi-resolver
 
 go 1.17
 
