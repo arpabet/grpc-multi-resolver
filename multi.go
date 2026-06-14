@@ -6,7 +6,7 @@
  *
  * Make sure to import this package:
  * ```
- * import _ "github.com/codeallergy/grpc-multi-resolver"
+ * import _ "github.com/arpabet/grpc-multi-resolver"
  * ```
  */
 package multiresolver
