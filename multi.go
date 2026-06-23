@@ -52,7 +52,6 @@ func (builder) Build(target resolver.Target, cc resolver.ClientConn, opts resolv
 			}
 		}
 		parsedTarget := resolver.Target{
-			Scheme:   scheme,
 			URL: *endpoint,
 		}
 		pcc := &partialClientConn{parent: pccg}
